@@ -1,0 +1,102 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on January 15, 2024, between TechCorp Industries, a Delaware corporation ("Company"), and Sarah Johnson ("Employee").
+
+POSITION AND DUTIES
+
+Employee is hired for the position of Senior Software Engineer in the Engineering Department. Employee will report directly to the Vice President of Engineering and will be responsible for:
+
+- Developing and maintaining software applications
+- Participating in code reviews and technical discussions
+- Mentoring junior developers
+- Contributing to architectural decisions
+- Following company policies and procedures
+
+COMPENSATION
+
+Base Salary: Employee will receive an annual base salary of $120,000, payable in bi-weekly installments of $4,615.38, subject to applicable withholdings.
+
+Performance Bonus: Employee is eligible for an annual performance bonus of up to 20% of base salary, based on individual and company performance metrics.
+
+Stock Options: Employee will receive stock options to purchase 5,000 shares of Company common stock at the current fair market value, vesting over four years with a one-year cliff.
+
+BENEFITS
+
+Health Insurance: Company provides comprehensive health insurance coverage including medical, dental, and vision. Employee contribution is $150 per month for individual coverage.
+
+Retirement Plan: Company offers a 401(k) retirement plan with company matching up to 6% of salary.
+
+Life Insurance: Company provides life insurance coverage equal to 2x annual salary at no cost to Employee.
+
+Disability Insurance: Short-term and long-term disability insurance provided by Company.
+
+LEAVE POLICIES
+
+Vacation Time: Employee is entitled to 20 days of paid vacation per year, accruing at 1.67 days per month. Unused vacation may be carried over up to 5 days annually.
+
+Sick Leave: Employee receives 10 days of paid sick leave per year. Sick leave does not carry over to the following year.
+
+Personal Days: Employee is entitled to 3 personal days per year for personal matters.
+
+Parental Leave: Employee is eligible for 12 weeks of paid parental leave following the birth or adoption of a child.
+
+Bereavement Leave: Employee is entitled to 3 days of paid bereavement leave for immediate family members.
+
+WORKING CONDITIONS
+
+Work Schedule: Full-time position requiring 40 hours per week, generally Monday through Friday, 9:00 AM to 5:00 PM.
+
+Remote Work: Employee may work remotely up to 2 days per week with manager approval.
+
+Overtime: Non-exempt employees receive overtime pay at 1.5x regular rate for hours worked over 40 per week.
+
+TERMINATION
+
+At-Will Employment: This is an at-will employment relationship. Either party may terminate this agreement at any time with or without cause.
+
+Notice Period: Employee agrees to provide 2 weeks written notice before voluntary termination.
+
+Severance: If terminated by Company without cause, Employee will receive severance pay equal to 4 weeks of base salary.
+
+CONFIDENTIALITY AND NON-DISCLOSURE
+
+Employee acknowledges access to confidential and proprietary information and agrees to:
+- Maintain strict confidentiality of all proprietary information
+- Not disclose confidential information to third parties
+- Return all company property upon termination
+- Not compete with Company for 6 months after termination within 50-mile radius
+
+INTELLECTUAL PROPERTY
+
+All work product, inventions, and intellectual property created during employment belongs to Company. Employee assigns all rights to Company for work-related creations.
+
+DISPUTE RESOLUTION
+
+Any disputes arising from this Agreement will be resolved through binding arbitration in accordance with Delaware state law.
+
+ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements.
+
+GOVERNING LAW
+
+This Agreement is governed by Delaware state law.
+
+SIGNATURES
+
+Company: TechCorp Industries
+By: Michael Chen, CEO
+Date: January 15, 2024
+
+Employee: Sarah Johnson
+Date: January 15, 2024
+
+EXHIBIT A - EMPLOYEE HANDBOOK ACKNOWLEDGMENT
+
+Employee acknowledges receipt of the Company Employee Handbook and agrees to comply with all policies contained therein, including but not limited to:
+
+- Code of Conduct
+- Anti-Harassment Policy
+- Information Security Policy
+- Social Media Policy
+- Travel and Expense Policy
